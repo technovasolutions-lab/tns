@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 726bb0270b2f61341334af59dfa1e2c19299883a manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779291603 +0530	commit (initial): first commit
+726bb0270b2f61341334af59dfa1e2c19299883a 0000000000000000000000000000000000000000 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779291614 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 726bb0270b2f61341334af59dfa1e2c19299883a manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779291614 +0530	Branch: renamed refs/heads/master to refs/heads/main
+726bb0270b2f61341334af59dfa1e2c19299883a 11d46b9e65cecb0e4615e91ca814817baa32300c manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779330633 +0530	commit: setup vercel routing
+11d46b9e65cecb0e4615e91ca814817baa32300c 41fa09f16b120aba0f21b9df6fd87776bf462919 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779459154 +0530	commit: Updated premium responsive portfolio section
+41fa09f16b120aba0f21b9df6fd87776bf462919 6b6f98870f0ba532089bf492bde68fb71310d524 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779460308 +0530	commit: Fix unused imports
+6b6f98870f0ba532089bf492bde68fb71310d524 bc8094e4a51e4c0edea24ba21f4f89c6dab5c740 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779509294 +0530	commit: Update hero
+bc8094e4a51e4c0edea24ba21f4f89c6dab5c740 4074837b2f0b91e118d2cbd79c1d94c407fdeeb1 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779509926 +0530	commit: Fix mobile text cutting issue in service cards
+4074837b2f0b91e118d2cbd79c1d94c407fdeeb1 e94339db75549995a55543fbd2231b5fe1c910c5 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779773125 +0530	commit: Fix header overlap and about section scroll spacing
+e94339db75549995a55543fbd2231b5fe1c910c5 62935be07664b88b6fc1a5073a176e7f493cdea7 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779796485 +0530	commit: Improve About section layout and responsive card design
+62935be07664b88b6fc1a5073a176e7f493cdea7 7741630dd4c15097d5002d7fca0085c0f1dffbce manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779882220 +0530	commit: Updated premium hero section with 3D TV and welcome animation
+7741630dd4c15097d5002d7fca0085c0f1dffbce d40a7094cea1f061ae93c7d0bf6bac995b19d658 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779892838 +0530	commit: Improve hero TV responsiveness and mobile layout
+d40a7094cea1f061ae93c7d0bf6bac995b19d658 bdc4ed76d3a2bc394ccbf89c1d37401877290141 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779893175 +0530	commit: Improve hero TV responsiveness and mobile layout
+bdc4ed76d3a2bc394ccbf89c1d37401877290141 697dd5075b77d8dcb8757d4da7663682c8aa9715 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779893504 +0530	commit: Update hero section design
+697dd5075b77d8dcb8757d4da7663682c8aa9715 9e789adaceb453135ef1a620541bcb307930f169 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779893711 +0530	commit: Fix Playfair font import
+9e789adaceb453135ef1a620541bcb307930f169 d6eed9107729478b69cc607bd5210a571accd04d manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779893914 +0530	commit: Update hero font
+d6eed9107729478b69cc607bd5210a571accd04d 45853f0c6428750d425893a276b7c934d6ac6fbf manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779894223 +0530	commit: Fix hero heading font
+45853f0c6428750d425893a276b7c934d6ac6fbf 90efbd7c39e83f3829c4af61544de415e482406a manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779894419 +0530	commit: Force hero heading font
+90efbd7c39e83f3829c4af61544de415e482406a c7a50fe9cf660162e0cfcdffd7156dd87bcdd214 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779894835 +0530	commit: Force hero heading font
+c7a50fe9cf660162e0cfcdffd7156dd87bcdd214 6086c93d6661775c6113362bfc8c28acdaaab8cf manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779949020 +0530	commit: Upgrade About section with premium UI and animations
+6086c93d6661775c6113362bfc8c28acdaaab8cf 948a379578a1a92668fed3504742c78ab7c4dbf4 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779984570 +0530	commit: Added founder and co-founder contact buttons
+948a379578a1a92668fed3504742c78ab7c4dbf4 6cdfda7c32f3117e235c41d5bc1c0e0a2245abb2 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779985383 +0530	commit: Trigger Vercel redeploy
+6cdfda7c32f3117e235c41d5bc1c0e0a2245abb2 f0d107d9601310230b8ad3fe84ae7a69197dc1a7 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1779986103 +0530	commit: Fix founder contact buttons
+f0d107d9601310230b8ad3fe84ae7a69197dc1a7 b82883ecde99a315400f05f4fd8a134ac02cc471 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780038290 +0530	commit: Connect contact form with Formspree
+b82883ecde99a315400f05f4fd8a134ac02cc471 78d06b9b08af7f9ddd67c5e08c7ccf4decebefe8 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780074083 +0530	commit: Increase header tagline font size
+78d06b9b08af7f9ddd67c5e08c7ccf4decebefe8 6dd0c1d8f865841885859c494c0623e10d061ae9 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780074778 +0530	commit: Increase header tagline font size
+6dd0c1d8f865841885859c494c0623e10d061ae9 e15e12745a1d9659af61377876b524b6e537aa86 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780075528 +0530	commit: Increase header tagline font size
+e15e12745a1d9659af61377876b524b6e537aa86 efda111d2e00350b061983dc43058c20aa5bc767 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780113566 +0530	commit: Fix footer mobile layout: Quick Links and Policies in one row
+efda111d2e00350b061983dc43058c20aa5bc767 f7f6557d9ec3dcab9f8d767554022d1c97bacedd manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780206496 +0530	commit: Allow Formspree in CSP
+f7f6557d9ec3dcab9f8d767554022d1c97bacedd ea421d31c6b6ed403829215f9f9b86a5a5084bb7 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780206575 +0530	commit: Fix CSP for fonts and Formspree
+ea421d31c6b6ed403829215f9f9b86a5a5084bb7 496f287d0ecdf3edc0c7398e365532c13d1555df manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780210280 +0530	commit: Fix internship form, services key warning and mobile team menu
+496f287d0ecdf3edc0c7398e365532c13d1555df 68b44d64a49f5da4f42200ec9f7be32d3f9b23f0 manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780293782 +0530	commit: Update about section icon alignment
+68b44d64a49f5da4f42200ec9f7be32d3f9b23f0 2fb690be342d4c89bb27a0a1015f38c24289977b manav-rabadiya23 <rabadiyamanav789@gmail.com> 1780294140 +0530	commit: Update team section images and layout
